@@ -1,4 +1,4 @@
-# XHTheme AI Toolbox
+# 星河AI工具箱插件
 
 [![WordPress Version](https://img.shields.io/badge/WordPress-6.6%2B-blue.svg)](https://wordpress.org/)
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-green.svg)](https://www.php.net/)
